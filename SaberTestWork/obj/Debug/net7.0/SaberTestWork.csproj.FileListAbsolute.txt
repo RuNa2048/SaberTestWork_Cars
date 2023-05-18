@@ -1,0 +1,15 @@
+A:\Work\TestWork\SaberTestWork\SaberTestWork\bin\Debug\net7.0\SaberTestWork.exe
+A:\Work\TestWork\SaberTestWork\SaberTestWork\bin\Debug\net7.0\SaberTestWork.deps.json
+A:\Work\TestWork\SaberTestWork\SaberTestWork\bin\Debug\net7.0\SaberTestWork.runtimeconfig.json
+A:\Work\TestWork\SaberTestWork\SaberTestWork\bin\Debug\net7.0\SaberTestWork.dll
+A:\Work\TestWork\SaberTestWork\SaberTestWork\bin\Debug\net7.0\SaberTestWork.pdb
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\SaberTestWork.csproj.AssemblyReference.cache
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\SaberTestWork.GeneratedMSBuildEditorConfig.editorconfig
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\SaberTestWork.AssemblyInfoInputs.cache
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\SaberTestWork.AssemblyInfo.cs
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\SaberTestWork.csproj.CoreCompileInputs.cache
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\SaberTestWork.dll
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\refint\SaberTestWork.dll
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\SaberTestWork.pdb
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\SaberTestWork.genruntimeconfig.cache
+A:\Work\TestWork\SaberTestWork\SaberTestWork\obj\Debug\net7.0\ref\SaberTestWork.dll
